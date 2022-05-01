@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pothole_Image_Data</folder>
+	<filename>91.jpg</filename>
+	<path>C:\Users\Angel\Desktop\Fovea\images\Pothole_Image_Data\91.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>383</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>100</ymin>
+			<xmax>615</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>
