@@ -301,7 +301,7 @@ if __name__ == '__main__':
     print("Success, check the folder")
 
 
-"""
+
     ## Code for the video section
     frames = []
     frame_count = 0
@@ -344,4 +344,3 @@ if __name__ == '__main__':
             frames = []
 
     capture.release()
-"""
